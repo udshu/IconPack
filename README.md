@@ -10,3 +10,5 @@ includes directly different icon packs and a picker
 - line icons
 
 ## dart pub
+
+https://pub.dev/packages/icon_pack_picker
