@@ -8,3 +8,5 @@ includes directly different icon packs and a picker
 - cuppertino
 - font awesome
 - line icons
+
+## dart pub
